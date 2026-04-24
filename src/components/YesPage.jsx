@@ -25,10 +25,9 @@ function YesPage() {
             {showConfetti && <Confetti />}
             <div className="yes-content">
                 <h1 className="yes-title"> JEJE SABIA QUE DIRIAS QUE SI </h1>
-                <p className="yes-subtitle"> Entonces que dices ... ¿viernes a las 3 pm? </p>
             <div className="gif-container">
                 <img 
-                    src="https://media.giphy.com/media/VM1fcpu2bKs1e2Kdbj/giphy.gif" 
+                    src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWwxZ3V6eWNhaW4wYmhreWVvbDJzY2wxejFsOXJreTdzdms1bnZ0eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VPo7gdnsl4W9q9aOgP/giphy.gif" 
                     alt="Celebración gatitoooo"
                 />
             </div>

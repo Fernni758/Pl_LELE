@@ -5,12 +5,12 @@ import "../styles/questionPage.css";
 function QuestionPage({onYesClick}) {
     const mensajes =[
         "seguraaaa que no???",
-        "estas segurisimaaa???",
-        "no me dejes asi :(",
-        "porfis dime que si :)",
-        "no me hagas esto :(",
-        "okey ya entendi vete con el otr@ :)",
-        "pero sabes que te voy a extrañar mucho :(",
+        "estas segurisimaa???",
+        "Andaaaaaaaa",
+        "No me la hagas jochis",
+        "Y el infiel segun soy yo",
+        "HDLV ya di que si ",
+        "Yo creo que es pq me odias",
         "aceptalo :(",
         "andale di que si <3" ,
     ];
@@ -40,7 +40,7 @@ function QuestionPage({onYesClick}) {
     return (
 
         <div className="question-container">
-            <h1 className="question-title">¿Quieres salir o q corazón?</h1>
+            <h1 className="question-title">¿Mañana vamos por un mathca amor?</h1>
             <div className="buttons-container">
                 <button 
                     className= "yes-button"
@@ -56,7 +56,7 @@ function QuestionPage({onYesClick}) {
             </div>
             <div className="image-container">
                 <img
-                    src="https://media.giphy.com/media/xT39CQIcoWQXQ5peco/giphy.gif" 
+                    src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3N6Y2xsN3RuZ28xZHRnNzdjdjZnOXN1ZDBqdTZueXV1OXBpNnR4diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4umTDLyx8TrNxytzqg/giphy.gif" 
                             alt="Gatito enamorado"
                 />
             </div>
